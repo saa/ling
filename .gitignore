@@ -6,4 +6,3 @@
 *.lo
 /core/include/xen
 /dist
-*.tar.gz
